@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TecHeReTiC3141
-- 👀 I’m interested in python, Java, CSS, HTML.
+- 👀 I’m interested in python, C++, ML, DA, Java, C#.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
