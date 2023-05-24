@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TecHeReTiC3141
-- I’m interested in python, C++, ML, DA, web-development.
+- I’m interested in python, C++, JS, ML, DA, web-development.
 
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TecHeReTiC3141&show_icons=true&theme=radical) -->
