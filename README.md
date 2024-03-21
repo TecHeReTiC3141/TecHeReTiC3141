@@ -42,6 +42,11 @@
 <br />
 <div align="center">
  > You can see my cv <a href="https://www.youtube.com/watch?v=rYmWbXZB564" >here </a> <
+<br />
+<br />
+ <a href="https://techeretic-portfolio.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
 </div>
 <hr/>
 
