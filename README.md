@@ -41,7 +41,7 @@
 </div>
 <br />
 <div align="center">
- > You can see my cv <a href="https://www.youtube.com/watch?v=rYmWbXZB564" >here </a> <
+ > You can see my cv <a href="https://docs.google.com/document/d/19WJBxg_9DizA4IJ-A4Pskf6hGHMO1JabrG9wvMPWh-Q?usp=sharing" >here </a> <
 <br />
 <br />
  <a href="https://techeretic-portfolio.vercel.app/" target="_blank">
