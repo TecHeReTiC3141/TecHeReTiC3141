@@ -41,7 +41,7 @@
 </div>
 <br />
 <div align="center">
- > You can see my cv <a href="https://drive.google.com/file/d/1GpQkLa-huwxcX1B7fC63lQAnPMpQWjzo/view?usp=sharing" >here </a> <
+ > You can see my cv <a href="https://drive.google.com/file/d/1PUdYBTU7RQ3fZLeVLhQMGKK9AmY7MGKW/view?usp=sharing" >here </a> <
 <br />
 <br />
  <a href="https://techeretic-portfolio.vercel.app/" target="_blank">
